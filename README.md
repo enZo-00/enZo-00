@@ -7,7 +7,7 @@
 <br>
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=enZox86.enZox86&left_color=black&right_color=blue" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=enZo-00.enZo-00&left_color=black&right_color=blue" />
 </div>
 
 ###
